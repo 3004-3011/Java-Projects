@@ -1,2 +1,4 @@
 # Java-Projects
-All the java projects i have been working on and learning Java further.
+#Eelctronic_Billing_System.
+Run All files in a JDE environment from the branch Electronic_Billing_System
+
